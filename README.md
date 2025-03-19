@@ -1,2 +1,13 @@
-Version control with git
-Task 1 Version control with git
+** VERSION CONTROL WITH GIT **
+
+*COMPANY* : CODTECH IT SOLUTIONS
+
+*NAME* : PRAVEENA S
+
+*INTERN ID* :  CT04WM44
+
+*DOMAIN* : DEVOPS
+
+*DURATION* : 4 WEEKS
+
+*MENTOR* : NEELA SANTHOSH KUMAR 

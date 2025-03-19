@@ -1,3 +1,6 @@
-Codetech intern
+Codetech internship
+Devops task1
+merge conflict 
+Resolving of merge conflict
 DevOps
 merge conflict arises
